@@ -6,7 +6,10 @@
       "Bash(git checkout:*)",
       "Bash(go test:*)",
       "Bash(go build:*)",
-      "Bash(make:*)"
+      "Bash(make:*)",
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(gh pr:*)"
     ]
   }
 }
